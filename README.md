@@ -1,2 +1,3 @@
-# Class-2-activity
-This is a test for cleating an application
+streamlit_app.py - Main file
+settings.py - Config. file
+EDA/eda.py - EDA Analysis
